@@ -1,0 +1,18 @@
+.references-section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    padding: 20px 20px;
+    /*background-color: yellow;*/
+}
+
+.reference {
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(203, 214, 214);
+    /*border: 1px solid red;*/
+}
+
+.ref-name {
+    font-weight: bold;
+}
