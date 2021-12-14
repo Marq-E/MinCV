@@ -13,7 +13,7 @@ export default function References() {
                 </div>
                 <div className="reference">
                     <p className="ref-name">HERBJØRN ANGLEN</p>
-                    <p>NETTVERKSLEVERANDØR<br /><span>Telenor</span><br />412 45 913</p>
+                    <p>LØSNINGSARKITEKT, NETTVERK<br /><span>Telenor</span><br />412 45 913</p>
                 </div>
                 <div className="reference">
                     <p className="ref-name">ANDERS MYRVOLD</p>
