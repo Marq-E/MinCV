@@ -34,7 +34,7 @@ export default function Info() {
                     <h4 className="info-h4">FRONTEND-UTVIKLER</h4>
                     <p className="p-info-section"><em>The Frontend Developer Career Path</em></p>
                     <p className="p-info-section"><em>Scrimba</em></p>
-                    <p className="p-info-section">2019 - 2021</p>
+                    <p className="p-info-section">2020 - 2021</p>
                     <h4 className="info-h4">SYSTEMADMINISTRASJON</h4>
                     <p className="p-info-section"><em>AZ-103: Microsoft Azure Administrator</em></p>
                     <p className="p-info-section"><em>Glasspaper</em></p>

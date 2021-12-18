@@ -12,8 +12,8 @@ export default function KeyQualifications() {
                         Jeg fikk også god erfaring som systemadministrator med daglige konfigureringer i Microsoft Admin Center, Azure AD, Teams, OneDrive, O365 og Exchange Online. 
                         Tilegnet meg også en del kunnskap av å jobbe med og i cloud da jeg hadde hovedansvaret for å migrere en av våre avdelinger til skyen.</p>
                     <li className="key-info-list-element">1 år med front-end-utvikling</li>
-                        <p className="key-text">Har blitt godt kjent med programmeringsspråket React etter å ha tatt The Frontend Developer Career Path-kurset på nett hos Scrimba. 
-                        Noe av denne kunnskapen kom godt med da jeg var med og konfigurerte den nye hjemmesiden hos REITAN AS.</p> 
+                        <p className="key-text">Det siste året har jeg fattet stor interesse for utvikling av nettsider etter å ha gjennomført et frontend-utviklingskurs hos Scrimba. Dette innebærer
+                        programmering i React, Javascript, CSS og HTML. Har allerede solgt en nettside til en organisasjon i Trondheim.</p> 
                     <li className="key-info-list-element">Over 5 års erfaring som prosjektleder/konsulent</li>
                         <p className="key-text">Gjennom flere hundre prosjekter utviklet jeg evnen til å jobbe systematisk og strukturert, både selvstendig og i team. 
                         Snakket mye med kundene i møter og over telefon, og mine kommunikasjonsevner bedret seg mye etter denne perioden.</p> 
