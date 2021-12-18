@@ -45,7 +45,7 @@ export default function Info() {
                     <p className="p-info-section">Løsningsorientert</p>
                     <p className="p-info-section">Selvgående</p>
                     <p className="p-info-section">Strukturert</p>
-                    <p className="p-info-section">Engasjerende</p>
+                    <p className="p-info-section">Engasjert</p>
                     <p className="p-info-section">Motiverende</p>
                     <p className="p-info-section">Resultatorientert</p>
                     <p className="p-info-section">Kreativ</p>
