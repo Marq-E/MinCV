@@ -19,7 +19,7 @@ export default function Info() {
                     <p className="p-info-section"><em>NTNU Handelshøyskolen</em></p>
                     <p className="p-info-section">2013-2015</p>
                     <br />
-                    <h4 className="info-h4">IT-BACHELOR SYSTEMUTVIKLING</h4>
+                    <h4 className="info-h4">IT-INGENIØR SYSTEMUTVIKLING</h4>
                     <p className="p-info-section"><em>Høgskolen i Sør-Trøndelag</em></p>
                     <p className="p-info-section">2001-2004</p>
                 </div>
