@@ -15,11 +15,13 @@ export default function WorkExperience() {
                         <li>Drift av 13 serverrom via Meraki Dashboard.</li>
                         <li>Brukerkontoadministrering av 4 forskjellige organisasjoner via Azure AD og Microsoft Admin Center</li>
                         <li>Anskaffelse av nødvendige systemer og programvare med tilhørende lisenser</li>
-                        <li>Epostadministrasjon i Exchange Online og Microfot Admin Center</li>
+                        <li>Epostadministrasjon i Exchange Online og Microsoft Admin Center</li>
                         <li>Oppsett og administrering av O365, Teams og OneDrive</li>
                         <li>Oppsett av PC'r via Intune i Azure</li>
                         <li>Anskaffelse og vedlikehold av AV-utstyr for konferanse- og møterom</li>
+                        <li>Utarbeide kostnadsprognoser / budsjettering</li>
                         <li>Forhandling og oppfølging av leverandørkontrakter</li>
+                        <li>Rapportering</li>
                         <li>1. linje-support</li>
                     </ul>
                 </div>

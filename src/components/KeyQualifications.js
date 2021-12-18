@@ -7,7 +7,7 @@ export default function KeyQualifications() {
                 <h3 className="key-info-title">NØKKELKVALIFIKASJONER</h3>
                 <ul className="key-info-list">
                     <li className="key-info-list-element">3,5 år som IT-ansvarlig</li>
-                        <p className="key-text">Som IT-ansvarlig hos REITAN AS fikk jeg mye erfaring med prosessarbeid ifm å anskaffe og implementere ny teknologi som en del moderniseringen av IT-plattformen. 
+                        <p className="key-text">Som IT-ansvarlig hos REITAN AS fikk jeg mye erfaring med prosessarbeid ifm å anskaffe og implementere ny teknologi som en del av moderniseringen av IT-plattformen. 
                         Jeg lærte også mye som nettverks- og systemtekniker da vi byttet hele nettverket til Cisco Meraki og fikk en del av ansvaret for å drifte det videre. 
                         Jeg fikk også god erfaring som systemadministrator med daglige konfigureringer i Microsoft Admin Center, Azure AD, Teams, OneDrive, O365 og Exchange Online. 
                         Tilegnet meg også en del kunnskap av å jobbe med og i cloud da jeg hadde hovedansvaret for å migrere en av våre avdelinger til skyen.</p>
